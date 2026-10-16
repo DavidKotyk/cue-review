@@ -1,0 +1,21 @@
+{
+  "decoded_frames": 372,
+  "expected_frames": 372,
+  "duration_seconds": 62,
+  "metadata": {
+    "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 6.0,
+    "source_size": [
+      1280,
+      960
+    ],
+    "size": [
+      1280,
+      960
+    ],
+    "rotate": 0,
+    "duration": 62.0
+  }
+}

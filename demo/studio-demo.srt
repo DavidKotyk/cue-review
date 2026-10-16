@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:05,000
+Welcome to the Riverside studio.
+
+2
+00:00:05,500 --> 00:00:09,000
+In order to get started, you will need to press the green button on the Solara panel.
+
+3
+00:00:09,000 --> 00:00:12,500
+Please make sure that you do not turn off the power until the light stops flashing.
+
+4
+00:00:12,000 --> 00:00:12,700
+Wait 10 seconds before you open it.
+
+5
+00:00:13,000 --> 00:00:17,000
+We will be back at Riverside tomorrow.

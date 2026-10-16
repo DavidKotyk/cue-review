@@ -1,0 +1,7 @@
+{
+  "source_cues": 5,
+  "export_cues": 5,
+  "all_timestamps_preserved": true,
+  "only_approved_edit_replaced_original": true,
+  "rejected_short_cue_original_preserved": true
+}

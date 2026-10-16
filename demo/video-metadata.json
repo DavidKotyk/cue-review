@@ -1,0 +1,14 @@
+{
+  "width": 1280,
+  "height": 960,
+  "fps": 6,
+  "duration_seconds": 62,
+  "audio": false,
+  "type": "Annotated real screenshots; not continuous screen recording",
+  "source_screenshots": [
+    "03-approved.jpg",
+    "09-final-draft.jpg",
+    "10-final-approved.jpg",
+    "11-final-risk.jpg"
+  ]
+}

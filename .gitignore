@@ -1,0 +1,9 @@
+__pycache__/
+data/
+*.sqlite3*
+.DS_Store
+demo/browser-profile/
+/PLAN.md
+/review-packet/
+/evidence/eligibility-confirmation.json
+/evidence/completion-audit.json

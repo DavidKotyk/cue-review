@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-10-16T13:35:16.911286+00:00",
+  "runtime": "existing Ollama on loopback",
+  "tag": "phi3:latest",
+  "manifest_sha256": "64c1188f2485448235b2d371639a127fc0e4dc2cd3c041152368883c42eb2bd1",
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "phi3",
+    "families": [
+      "phi3"
+    ],
+    "parameter_size": "3.8B",
+    "quantization_level": "Q4_K_M"
+  },
+  "model_info": {
+    "general.architecture": "phi3",
+    "general.file_type": 15,
+    "general.parameter_count": 3821079552,
+    "general.quantization_version": 2,
+    "phi3.attention.head_count": 32,
+    "phi3.attention.head_count_kv": 32,
+    "phi3.attention.layer_norm_rms_epsilon": 1e-05,
+    "phi3.block_count": 32,
+    "phi3.context_length": 4096,
+    "phi3.embedding_length": 3072,
+    "phi3.feed_forward_length": 8192,
+    "phi3.rope.dimension_count": 96,
+    "phi3.rope.freq_base": 10000,
+    "phi3.rope.scaling.original_context_length": 4096,
+    "tokenizer.ggml.add_bos_token": true,
+    "tokenizer.ggml.add_eos_token": false,
+    "tokenizer.ggml.bos_token_id": 1,
+    "tokenizer.ggml.eos_token_id": 32000,
+    "tokenizer.ggml.model": "llama",
+    "tokenizer.ggml.padding_token_id": 32000,
+    "tokenizer.ggml.pre": "default",
+    "tokenizer.ggml.scores": [],
+    "tokenizer.ggml.token_type": [],
+    "tokenizer.ggml.tokens": [],
+    "tokenizer.ggml.unknown_token_id": 0
+  },
+  "capabilities": [
+    "completion"
+  ],
+  "weights_downloaded_by_this_project": false,
+  "cloud_inference_calls": 0
+}

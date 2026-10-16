@@ -1,0 +1,16 @@
+test_real_http_import_ledger_export_and_origin_guards (test_review.HTTPTests.test_real_http_import_ledger_export_and_origin_guards) ... ok
+test_bad_srt_is_rejected (test_review.ReviewTests.test_bad_srt_is_rejected) ... ok
+test_bom_crlf_and_exact_times_roundtrip (test_review.ReviewTests.test_bom_crlf_and_exact_times_roundtrip) ... ok
+test_diagnostics_include_overlap_and_speed (test_review.ReviewTests.test_diagnostics_include_overlap_and_speed) ... ok
+test_guard_rejects_changed_numbers_terms_or_markup (test_review.ReviewTests.test_guard_rejects_changed_numbers_terms_or_markup) ... ok
+test_invalid_profile_and_glossary (test_review.ReviewTests.test_invalid_profile_and_glossary) ... ok
+test_model_failure_does_not_mutate_review (test_review.ReviewTests.test_model_failure_does_not_mutate_review) ... ok
+test_model_returning_after_another_edit_is_stale (test_review.ReviewTests.test_model_returning_after_another_edit_is_stale) ... ok
+test_proposal_never_exports_until_approved (test_review.ReviewTests.test_proposal_never_exports_until_approved) ... ok
+test_rejection_restore_and_persistence (test_review.ReviewTests.test_rejection_restore_and_persistence) ... ok
+test_stale_revision_and_no_proposal_fail (test_review.ReviewTests.test_stale_revision_and_no_proposal_fail) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.544s
+
+OK
